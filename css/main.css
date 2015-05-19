@@ -1,0 +1,52 @@
+body{
+	text-align: center; 
+	background-color:#174539;
+	color:white;
+	font-family:'Oswald';
+}
+
+p{
+	font-size:22px;
+}
+
+div.main-content{
+	text-align: center;
+}
+
+a:link{
+	text-decoration:none;
+}
+
+a:hover{
+	background-color:yellow;
+}
+
+input{
+	padding:10px;
+}
+
+input[type="submit"] {
+	background-color:#3CB4B4;
+	color:black;
+}
+
+img#monkey{
+	height:20%;
+	width:20%;
+	margin:30px;
+	border-radius:70%;
+}
+
+li.main-nav{
+	font-size: 16px;
+	color:black;
+	list-style-type:none;
+	display:inline;
+	margin:15px;
+    text-decoration:none;
+}
+
+footer{
+	float:center;
+	margin:10px;
+}
